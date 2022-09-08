@@ -18,4 +18,6 @@ For later reference, descriptions of all columns are also saved.
 `intenta-csv-maker.csv` will filter all results in the `./data` folder by company, and spit out everything about a single company as csv files.
 This is specific to my employer, but can be easily modified to search for different criteria or not filter at all.
 
+`time-histogram.py` takes all scores and prints them out as comma-seperated bins and bars for easy importing into excel (or whatever).
+
 I wanted to include a thing that automatically grabs the video of everyone passing the finish line (there was a live stream), but they took the vod offline :(
